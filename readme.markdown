@@ -6,6 +6,8 @@ This code is meant for interacting with the Nissan Leaf Carwings API. This API a
 
 It is written for [node.js](https://nodejs.org) and uses the [babel transpiler](https://babeljs.io) mainly for taking advantage of es6 modules and es8(?) async/await to make network ops more pleasant to work with.
 
+This code is based on the original fork of [bhagyas](https://github.com/bhagyas/homebridge-carwings-platform) and the GO package for Carwings done by [joeshaw](https://github.com/joeshaw/carwings)
+
 ## Getting Started
 
 The code in `src` is the non-transpiled source, and in `lib` can be found the transpiled library that is ready to be `require()`'d directly from node >= ^6.9 (may work on older, but this is untested).

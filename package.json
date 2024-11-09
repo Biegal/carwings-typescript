@@ -1,6 +1,6 @@
 {
   "author": {
-    "name": "Bhagya Silva, Peter Löfgren"
+    "name": "Marcin Biegała"
   },
   "dependencies": {
     "@types/lodash": "^4.14.78",
@@ -28,7 +28,7 @@
     "typescript": "^2.5.3",
     "webpack": "^3.8.1"
   },
-  "homepage": "https://github.com/bhagyas/carwings-typescript#readme",
+  "homepage": "https://github.com/biegal/carwings-typescript#readme",
   "keywords": [
     "carwings",
     "nissan",
